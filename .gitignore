@@ -1,0 +1,6 @@
+# Project exclude paths
+/leyou-common/target/
+/leyou-registry/target/
+/leyou-sms-service/target/
+/leyou-user/leyou-user-interface/target/
+/leyou-user/leyou-user-service/target/
